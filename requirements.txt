@@ -19,6 +19,6 @@ segno
 pillow
 
 
-
+streamlit-autorefresh
 librosa
 resemblyzer
